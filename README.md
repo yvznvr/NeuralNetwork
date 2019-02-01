@@ -3,6 +3,10 @@ Neural Network Implementation with C++
 
 You can see how to implement neural networks.
 
+On the following video, I used this library and Qt.
+
+[![Watch the video](https://i.ytimg.com/vi/dVHOZx6lYKw/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&amp;rs=AOn4CLDD7z3kr0w-zu3bU51UpHIxXQAC5w)](https://www.youtube.com/watch?v=dVHOZx6lYKw)
+
 A Noron Example
     
     // inputs length is 9 because of input dimension * number of sample
